@@ -8,6 +8,7 @@ COLCIENCIAS - DEPARTAMENTO ADMINISTRATIVO DE CIENCIA TECNOLOGIA E INNOVACION
 Convocatoria Jóvenes Investigadores e Innovadores por la Paz 2017
 Universidad Nacional de Colombia - Facultad de Ciencias
 
+En este proceso, se encontrará una rutina usada para la limpieza de datos de las estacinoes automáticas pertenecientes a la red IDEAM. La forma de ejecutarlo es la siguiente:
 
 ## Código para la descarga de los datos
 descarga_IDEAM_hydras.ipynb
