@@ -1,4 +1,4 @@
-# Procesamiento para la limpieza de los datos de las estaciones automáticas IDEAM
+ Proceso de limpieza de datos de las estaciones automáticas IDEAM
 ## Realizado por: Edwin Torres Moya, Astrid Baquero-Bernal y Eliecer Díaz-Almanza
 
 ### El proyecto titulado:
