@@ -9,8 +9,11 @@ Convocatoria Jóvenes Investigadores e Innovadores por la Paz 2017
 Universidad Nacional de Colombia - Facultad de Ciencias
 
 
-#Código para la descarga de los datos
-descarga_IDEAM_hydras.py
+# Código para la descarga de los datos
+descarga_IDEAM_hydras.ipynb
 
-#Código para la limpieza de los datos
-limpieza_hydras.py
+# Código para poner en forma los datos
+formato_para_limpieza.ipynb
+
+# Código para realizar el control de calidad de los datos
+rutina_control_calidad_datos.ipynb
