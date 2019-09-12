@@ -35,11 +35,7 @@ def orden(base):
 vari = ['cod', 'date', 'precip-10min', 'hum_2m', 'Rad-gl', 'tmp_2m', 'tmp_2m_min', 'tmp_2m_max', 'Vel-vie-10min', 'Dir-vie-10min']
 
 #Carga de los datos
-
-os.chdir('/media/edwin/6F71AD994355D30E/Edwin/Maestría Meteorologia/Tesis/hydras3_2005')
-lista_estaciones_2 = pd.DataFrame(list(os.listdir()))
-#i = '21206990.csv'
-estaciones = pd.read_csv('/media/edwin/6F71AD994355D30E/Edwin/Maestría Meteorologia/Tesis/datos_ideam/catalogo_est_4326.csv')
+estaciones = pd.read_csv('/media/edwin/6F71AD994355D30E/Edwin/Maestría Meteorologia/Tesis/congreso/validacion_est_autom_ideam/catalogo_est_4326.csv')
 
 ##Tabla para la inclusión de los datos
 #humedad

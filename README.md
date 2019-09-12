@@ -1,5 +1,13 @@
 # Procesimiento para la limpieza de los datos de las estaciones automáticas IDEAM
-Para este proceso se crearon 2 rutinas. Una para descargar los datos y otra rutina para realizar la limpieza de los datos.
+## Realizado por: Edwin Torres Moya, Astrid Baquero-Bernal y Eliecer Díaz-Almanza
+
+El proyecto titulado:
+Efectos Potenciales de Temperaturas Extremas del Aire en la Sabana de Bogotá sobre la Producción de Un Cultivo de Importancia para la Seguridad Alimentaria: Un Estudio con un Modelo Regional de Pronóstico del Tiempo Atmosférico y Un Modelo de Simulación de Cultivo
+Se llevó a cabo gracias al apoyo brindado por:
+COLCIENCIAS - DEPARTAMENTO ADMINISTRATIVO DE CIENCIA TECNOLOGIA E INNOVACION
+Convocatoria Jóvenes Investigadores e Innovadores por la Paz 2017
+Universidad Nacional de Colombia - Facultad de Ciencias
+
 
 #Código para la descarga de los datos
 descarga_IDEAM_hydras.py
